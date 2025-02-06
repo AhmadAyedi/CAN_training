@@ -71,3 +71,15 @@ Save the file (CTRL + X, then Y, then Enter).
 source ~/can_project/venv/bin/activate
 python receive.py
 
+
+
+
+
+
+
+
+
+RQQQQQQQQQQQQQQQQQ : if it won't send do this cmd then bitrate
+
+ sudo ip link set can0 down
+ 
